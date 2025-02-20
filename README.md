@@ -1,4 +1,4 @@
-# Algorithm
+# Heap of students
 
 ```
 Student:
